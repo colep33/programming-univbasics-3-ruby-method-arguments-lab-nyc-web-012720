@@ -18,7 +18,7 @@ end
 
 puts introduction("Edwin")
 puts introduction_with_language("Dan","Ember.js")
-puts introduction_with_language_optional("Edwin")
+puts introduction_with_language_optional("Edwin","python")
 
 
 
